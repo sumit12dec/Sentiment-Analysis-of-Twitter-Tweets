@@ -1,3 +1,3 @@
 twitter-sentiment-analyzer
 ==========================
-<p> Take a look at simpleDemo.py for a demo </p>
+<p> Run the file twitter_sentiment.py in terminal and open the localhost address displayed on it to run the application. </p>
